@@ -4,6 +4,6 @@ class distance
     {
         double dis=10.8;
         double mile=dis*1.6;
-        System.out.println("The distance "+dis+"km in miles is "+mile);
+        System.out.println("The distance "+dis+" km in miles is "+mile);
     }
 }
