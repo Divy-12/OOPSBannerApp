@@ -1,4 +1,4 @@
-class UC4{
+class UC5{
     public static void main(String[] args){
         String [] line = new String[7];
         line[0]=(String.join(" " ,"   ***   ","   ***   ","******   ","  ***** "));
